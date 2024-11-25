@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you find this repository useful for your research, please cite it:"
+title: "Quantum Transfer Learning for Lymph Node Metastases Detection"
+authors:
+  - family-names: Al-Fahsi
+    given-names: Resha Dwika Hefni
+url: https://github.com/reshalfahsi/quantum-transfer-learning-metastases
